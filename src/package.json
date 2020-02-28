@@ -1,0 +1,24 @@
+{
+  "name": "dom",
+  "version": "0.0.1",
+  "description": "DOM utils",
+  "main": "src/dom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semmais/dom.git"
+  },
+  "keywords": [
+    "dom",
+    "class",
+    "js"
+  ],
+  "author": "Paulo Afonso <paulo.afonso@isobar.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semmais/dom/issues"
+  },
+  "homepage": "https://github.com/semmais/dom#readme"
+}
